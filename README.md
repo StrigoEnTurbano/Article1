@@ -1,1 +1,1 @@
-Пример для [статьи]() по YandexCloudFunctions. //TODO : добавить ссылку на статью.
+Пример для [статьи](https://habr.com/ru/articles/772590/) по YandexCloudFunctions.
